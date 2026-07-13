@@ -5,8 +5,9 @@ Public downloads and the auto-update feed for **VoxFlow**, on-device dictation f
 
 ## Download
 
-Grab the latest build from the [**Releases**](https://github.com/KaranvirKals/VoxFlow-releases/releases/latest)
-page — download `VoxFlow-<version>.dmg`, open it, and drag VoxFlow to Applications.
+**[Download the latest release](https://github.com/KaranvirKals/VoxFlow-releases/releases/latest/download/VoxFlow.dmg)** (`VoxFlow.dmg`) — open it and drag VoxFlow to Applications.
+
+You can also browse the [**Releases**](https://github.com/KaranvirKals/VoxFlow-releases/releases/latest) page for release notes and older builds. Each release has a single `VoxFlow.dmg` to download, plus a `.zip` Sparkle update payload you can ignore.
 
 **Requirements:** macOS 26 or later, Apple Silicon.
 

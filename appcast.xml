@@ -3,6 +3,15 @@
     <channel>
         <title>VoxFlow</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Sat, 18 Jul 2026 15:25:14 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/KaranvirKals/VoxFlow-releases/releases/download/v1.2.0/VoxFlow-1.2.0.zip" length="3416789" type="application/octet-stream" sparkle:edSignature="q0lSQEz295uOITHIlFkhQEUoAkni543Pgtbjvzeh5u+JHZFFRsIBqi/oRcMZo/lvmZnGkVng/1u0dbv+mw6nBw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 13 Jul 2026 03:26:30 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
